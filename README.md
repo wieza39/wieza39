@@ -5,7 +5,7 @@
 <h4>Facts first:</h4> <br>
 <ul>
 <li> :office: :: Looking for first commercial experience as <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="25" height="25"/>&nbsp; Java Developer </li><br>
-<li> :book: :: Currently studying - I am second-hand student, that started new studies in my late twenties, because I finally found something that might bring much more joy to everyday work-life balance.</li> <br>
+<li> :book: :: Currently studying - I am already graduated student, that started new studies in my late twenties, because I finally found something that might bring much more joy to everyday work-life balance.</li> <br>
 <li> :chart_with_upwards_trend: :: Despite studies, I learn on my own with online online courses and Google. </li><ul><br>
 <br>
 If you want to talk more about my plans, hit me up:<br><br>
